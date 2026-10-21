@@ -1,0 +1,64 @@
+# Pet em Pauta
+
+> Guias, comparativos e reviews de pet e itens do mercado, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [5 aquarismo até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aquarismo-ate-40/)
+- [4 aves até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aves-ate-50/)
+- [5 coleiras, camas e brinquedos até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/coleiras-camas-e-brinquedos-ate-30/)
+- [4 rações para cães e gatos até R$ 140: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/racoes-para-caes-e-gatos-ate-140/)
+- [5 saúde e higiene pet até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/saude-e-higiene-pet-ate-40/)
+
+## Guias
+- [Como escolher item de aquário: o que olhar na ficha antes de gastar (de R$ 17,20 a R$ 599,90)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-aquario/)
+- [Como escolher item para aves: o que olhar na ficha antes de gastar (de R$ 21,75 a R$ 198,90)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-para-aves/)
+- [Como escolher item de passeio: o que olhar na ficha antes de gastar (de R$ 18,40 a R$ 110,90)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-passeio/)
+- [Como escolher ração: o que olhar na ficha antes de gastar (de R$ 35,50 a R$ 189,90)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-racao/)
+- [Como escolher item de saúde pet: o que olhar na ficha antes de gastar (de R$ 19,01 a R$ 189)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-saude-pet/)
+
+## Reviews
+- [Aerador Chafariz 1.5cv 1.1kw Piscicultura Potente Oxigenio Bomba: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/aerador-chafariz-1-5cv-1-1kw-piscicultura-potente-oxigenio-bomba-d58086/)
+- [Aquatank Filtro Externo Hang On Hf-0200 250l/h em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/aquatank-filtro-externo-hang-on-hf-0200-250l-h-c7b373/)
+- [Bomba Submersa 1000 l/h Bombinha 1,5m Lagos Recalque: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bomba-submersa-1000-l-h-bombinha-1-5m-lagos-recalque-cdb55e/)
+- [Bomba Submersa 2000l/h 2m Lagos Recalque Fontes Aquários: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bomba-submersa-2000l-h-2m-lagos-recalque-fontes-aquarios-84d703/)
+- [Bomba Submersa Bivolt Pulaco Para Aquário Fontes 3W: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bomba-submersa-bivolt-pulaco-para-aquario-fontes-3w-310c00/)
+- [Bomba Submersa Bombinha Fonte Água Aquário 180l/h Indmaq em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bomba-submersa-bombinha-fonte-agua-aquario-180l-h-indmaq-b09a4f/)
+- [Ração Para Peixe Fort Flocos 250g Maramar alimento em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-para-peixe-fort-flocos-250g-maramar-alimento-d91c14/)
+- [Sifão Limpeza Com Bomba Manual Para Aquário Sugador: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/sifao-limpeza-com-bomba-manual-para-aquario-sugador-e207ff/)
+- [Avitrin Vermífugo 10ml Pássaros - Combate Parasitas e: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/avitrin-vermifugo-10ml-passaros-combate-parasitas-e-587ede/)
+- [Bebedouros Automáticos Aves Galinhas Codornas 10 Unidades Vermelho: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bebedouros-automaticos-aves-galinhas-codornas-10-unidades-vermelho-d2659b/)
+- [Cc 2030 Premium 1kg - Biotron - Farinhada: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/cc-2030-premium-1kg-biotron-farinhada-5f9e40/)
+- [Chocadeira 50 Ovos Galinha Rolagem Automatica + Ovoscopio em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/chocadeira-50-ovos-galinha-rolagem-automatica-ovoscopio-e81cff/)
+- [Kit 2 Bebedouro Para Frango Galinha Aves Automático: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/kit-2-bebedouro-para-frango-galinha-aves-automatico-724547/)
+- [Néctar Beija-Flor Alcon Club 600g Ração Pássaros Original em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/nectar-beija-flor-alcon-club-600g-racao-passaros-original-612b43/)
+- [Sulfamicina Oral Ibasa Coccidiose 1 Litro Imediato: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/sulfamicina-oral-ibasa-coccidiose-1-litro-imediato-7ac114/)
+- [Suprema Trinca Ferro Natural Extrusada 3kg - Reino: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/suprema-trinca-ferro-natural-extrusada-3kg-reino-d83bc6/)
+- [Cama Gato Nuvem Caminha Pet Redonda Ninho Soft: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/cama-gato-nuvem-caminha-pet-redonda-ninho-soft-d71a4c/)
+- [Coleira Peitoral Guia Para Cachorro Pit Bull Reforçada: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/coleira-peitoral-guia-para-cachorro-pit-bull-reforcada-6db5f3/)
+- [Guia Adestramento De Cães Coleira Unificada Educativa 2,00m: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-adestramento-de-caes-coleira-unificada-educativa-2-00m-121e60/)
+- [Guia De Contenção Banho E Tosa Para Mesa: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-de-contencao-banho-e-tosa-para-mesa-82a28b/)
+- [Guia Para Cachorros Grande Guia Para Caes 60x1,6cm: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-para-cachorros-grande-guia-para-caes-60x1-6cm-b8f81a/)
+- [Guia Retrátil Coleira Pet Passeio P/ Cães 8 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-retratil-coleira-pet-passeio-p-caes-8-2aa3e4/)
+- [Guia Retrátil para Cães e Gatos de 5: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-retratil-para-caes-e-gatos-de-5-639470/)
+- [Guia Unificada Coleira 2,00 Mt Enforcador Cães Adestramento: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/guia-unificada-coleira-2-00-mt-enforcador-caes-adestramento-8e583a/)
+- [Gran Plus Menu Castrados Para Gato Adulto Sabor: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/gran-plus-menu-castrados-para-gato-adulto-sabor-883542/)
+- [Racao Golden Gatos Special Castrados Sabor Frango E: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-golden-gatos-special-castrados-sabor-frango-e-d6d84c/)
+- [Ração Golden Fórmula Mini Bits Cão Ad Peq: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-golden-formula-mini-bits-cao-ad-peq-454595/)
+- [Ração Golden Gato Castrado Adulto Sabor Frango 10,1kg: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-golden-gato-castrado-adulto-sabor-frango-10-1kg-24bd07/)
+- [Ração P/caes Adultos Fresh Meat Sensitive Min E: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-p-caes-adultos-fresh-meat-sensitive-min-e-f914fe/)
+- [Ração Quatree Supreme Gatos Castrados Frango E Batata em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-quatree-supreme-gatos-castrados-frango-e-batata-6a6492/)
+- [Ração Úmida Pedigree para Cão Adulto de Raças: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/racao-umida-pedigree-para-cao-adulto-de-racas-eb3df2/)
+- [Whiskas Sachê Carne ao Molho para Gatos Adultos: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/whiskas-sache-carne-ao-molho-para-gatos-adultos-1b5c93/)
+- [Antipulgas Defenza 45mg Cães De 2 A 4,5kg: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/antipulgas-defenza-45mg-caes-de-2-a-4-5kg-134633/)
+- [Bravecto Cães 20-40kg 1000mg 1 Comp. Mastigável Msd em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bravecto-caes-20-40kg-1000mg-1-comp-mastigavel-msd-c20faf/)
+- [Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/coleira-antiparasita-scalibor-65-cm-protecao-4-meses-8cd0f2/)
+- [Cortador Alicate De Unha Gatos E Cães Pequeno em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/cortador-alicate-de-unha-gatos-e-caes-pequeno-a7be35/)
+- [Fluido Ibasa 200ml Spray Muscular Uso Veterinário: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/fluido-ibasa-200ml-spray-muscular-uso-veterinario-c0e74f/)
+- [Good Horse Shampoo vitamina A 700ML - profissional em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/good-horse-shampoo-vitamina-a-700ml-profissional-f04a7e/)
+- [NexGard Cachorro 25 kg à 50 kg 3: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/nexgard-cachorro-25-kg-a-50-kg-3-6b57e7/)
+- [Shampoo para cães Clorexidina World Fragrância Suave Frasco: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/shampoo-para-caes-clorexidina-world-fragrancia-suave-frasco-6fcd47/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/sobre/)
