@@ -5,18 +5,18 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 aquarismo até R$ 40: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aquarismo-ate-40/)
-- [4 aves até R$ 50: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aves-ate-50/)
-- [5 coleiras, camas e brinquedos até R$ 30: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/coleiras-camas-e-brinquedos-ate-30/)
-- [3 rações para cães e gatos até R$ 170: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/racoes-para-caes-e-gatos-ate-170/)
-- [3 saúde e higiene pet até R$ 50: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/saude-e-higiene-pet-ate-50/)
+- [4 aquarismo até R$ 40: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aquarismo-ate-40/)
+- [4 aves até R$ 50: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/aves-ate-50/)
+- [5 coleiras, camas e brinquedos até R$ 30: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/coleiras-camas-e-brinquedos-ate-30/)
+- [3 rações para cães e gatos até R$ 160: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/racoes-para-caes-e-gatos-ate-160/)
+- [4 saúde e higiene pet até R$ 50: comparativo com preços de 22/11](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/top/saude-e-higiene-pet-ate-50/)
 
 ## Guias
 - [Como escolher item de aquário: o que olhar na ficha antes de gastar (de R$ 19 a R$ 564)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-aquario/)
 - [Como escolher item para aves: o que olhar na ficha antes de gastar (de R$ 21,69 a R$ 98,49)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-para-aves/)
 - [Como escolher item de passeio: o que olhar na ficha antes de gastar (de R$ 15,90 a R$ 110,90)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-passeio/)
-- [Como escolher ração: o que olhar na ficha antes de gastar (de R$ 32,29 a R$ 190)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-racao/)
-- [Como escolher item de saúde pet: o que olhar na ficha antes de gastar (de R$ 39,95 a R$ 167,14)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-saude-pet/)
+- [Como escolher ração: o que olhar na ficha antes de gastar (de R$ 33 a R$ 190)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-racao/)
+- [Como escolher item de saúde pet: o que olhar na ficha antes de gastar (de R$ 21,46 a R$ 167,14)](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/guia/como-escolher-item-de-saude-pet/)
 
 ## Reviews
 - [Aerador Chafariz 1.5cv 1.1kw Piscicultura Potente Oxigenio Bomba: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/aerador-chafariz-1-5cv-1-1kw-piscicultura-potente-oxigenio-bomba-d58086/)
@@ -49,6 +49,7 @@ Contém links de afiliado Mercado Livre.
 - [Bravecto Cães 20-40kg 1000mg 1 Comp. Mastigável Msd em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/bravecto-caes-20-40kg-1000mg-1-comp-mastigavel-msd-c20faf/)
 - [Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/coleira-antiparasita-scalibor-65-cm-protecao-4-meses-8cd0f2/)
 - [Fluido Ibasa 200ml Spray Muscular Uso Veterinário: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/fluido-ibasa-200ml-spray-muscular-uso-veterinario-c0e74f/)
+- [Shampoo para cães Clorexidina World Fragrância Suave Frasco: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/review/shampoo-para-caes-clorexidina-world-fragrancia-suave-frasco-6fcd47/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-pata-e-cia/sobre/)
